@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<title>login page</title>
+<style>
+body {
+  background-image: url("abcd.jpg");
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<!--<body background="abcd.jpg" position="center" repeat="no-repeat">-->
+<body>
+<h1 align="center"><font color=white><b>Welcome to Book Your Ride</b></h1><br>
+<h2 align="center"><b><font color="dark blue">Please Login to Ride with us</font></h2>
+<center><font color="yellow">Login Page</font><br><br>
+<form>
+<label for="Email.id"><b>Email.id&nbsp;&nbsp;&nbsp;&nbsp;</b></label>
+<input type="text" name="nm" width=20><br><br>
+<label for="password"><b>Password&nbsp;&nbsp;&nbsp;&nbsp;</b></label>
+<input type="text" name="password" width=20><br><br>
+<button type="button">
+<a href="Home.html"><b>Login</b></a></button><br>
+</form>
+</body>
+</html>
